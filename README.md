@@ -61,6 +61,7 @@ tested:
 | HPPA            | HPUX             | GCC                     |
 | KVX             | Linux            | GCC                     |
 | IA-64           | Linux            | GCC                     |
+| LoongArch       | Linux            | GCC                     |
 | M68K            | FreeMiNT         | GCC                     |
 | M68K            | Linux            | GCC                     |
 | M68K            | RTEMS            | GCC                     |
@@ -447,6 +448,7 @@ developers:
     frv                 Anthony Green
     ia64                Hans Boehm
     kvx                 Yann Sionneau
+    loongarch           WANG Xuerui
     m32r                Kazuhiro Inaoka
     m68k                Andreas Schwab
     m88k                Miod Vallat
